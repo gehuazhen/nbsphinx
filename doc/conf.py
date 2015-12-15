@@ -3,6 +3,8 @@
 # Use sphinx-quickstart to create your own conf.py file!
 # After that, you have to edit a few things.  See below.
 
+import cloud_sptheme
+
 # Select nbsphinx and, if needed, other Sphinx extensions:
 extensions = [
     'nbsphinx',
@@ -96,6 +98,8 @@ except Exception:
 # -- Options for HTML output ----------------------------------------------
 
 html_title = project + ' version ' + release
+html_theme = 'cloud'  # or 'redcloud'
+html_theme_path = [cloud_sptheme.get_theme_dir()]
 
 # -- Options for LaTeX output ---------------------------------------------
 
