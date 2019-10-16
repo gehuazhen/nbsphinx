@@ -96,6 +96,19 @@ except Exception:
 # -- Options for HTML output ----------------------------------------------
 
 html_title = project + ' version ' + release
+html_theme = 'press'
+html_theme_options = {
+  "external_links": [
+      ("Github", "https://github.com/spatialaudio/nbsphinx"),
+  ]
+}
+html_sidebars = {
+    '**': [
+        'util/sidetoc.html',
+        'util/searchbox.html',
+    ]
+}
+
 
 # -- Options for LaTeX output ---------------------------------------------
 
