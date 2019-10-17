@@ -1,3 +1,4 @@
+itcase-sphinx-theme
 ipykernel
 numpy
 matplotlib
