@@ -8,11 +8,6 @@ was generated from Jupyter notebooks.
     :glob:
 
     installation
-    usage
-    markdown-cells
-    code-cells
-    raw-cells
-    hidden-cells
     executing-notebooks
     prolog-and-epilog
     custom-formats
