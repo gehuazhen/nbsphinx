@@ -8,7 +8,7 @@ was generated from Jupyter notebooks.
     :glob:
 
     installation
-    1.临床用血分析
+    1_lcyxpj
     executing-notebooks
     subdir/*
     a-normal-rst-file
