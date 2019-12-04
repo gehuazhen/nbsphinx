@@ -8,9 +8,8 @@ was generated from Jupyter notebooks.
     :glob:
 
     installation
+    1.临床用血分析
     executing-notebooks
-    prolog-and-epilog
-    custom-formats
     subdir/*
     a-normal-rst-file
     links

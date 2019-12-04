@@ -2,7 +2,7 @@ ipykernel
 numpy
 matplotlib
 pandas
-bokeh
+seaborn
 sphinxcontrib-bibtex
 sphinxcontrib-svg2pdfconverter
 ipywidgets
